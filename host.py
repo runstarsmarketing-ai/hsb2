@@ -37,7 +37,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8227174166:AAElDbw4gkYEImhMXwjWIMSdxzvmcXQyJrI")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8270301262:AAEldMmzcGK9sRbYk9WrFz6MqYE42EDnwlc")
 
 # Where uploaded scripts and logs are stored
 # Where uploaded scripts and logs are stored
